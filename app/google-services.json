@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795360975470",
+    "project_id": "phoneauth-e2454",
+    "storage_bucket": "phoneauth-e2454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795360975470:android:3b961a87ed9d470dc9a47f",
+        "android_client_info": {
+          "package_name": "com.areeb.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795360975470-mnbgh2564pu2a2j1pp3gg97hantjukvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARakID_A8DUnF4H3xcdzLElYXUM3smkac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795360975470-mnbgh2564pu2a2j1pp3gg97hantjukvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
